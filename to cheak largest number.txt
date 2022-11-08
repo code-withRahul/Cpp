@@ -1,0 +1,15 @@
+#include<iostream>
+#include<conio.h>
+  
+  using namespace std; 
+  int main()
+  { 
+  int a,b;
+  cout<<"enter any to number";
+  cin>>a>>b;
+  if
+   (a>b)
+  cout<<a<<"is largest";
+  else
+  cout<<b<<"is largest";
+  }

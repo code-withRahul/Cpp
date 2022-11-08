@@ -1,0 +1,14 @@
+#include<iostream>
+#include<conio.h>
+
+int main(){
+	using namespace std;
+	int a,b ;
+	cin>>a>>b;
+if (b<a)
+	cout<<a/b;
+else 
+cout<<"Number is not valid";
+	getch();
+	return 0;
+}
